@@ -33,4 +33,4 @@ A: Roughly 24 hours. Speedmap.html is updated in real-time though, so you can ch
 
 Q: Why so slow?
 
-A: Speedtest.net api rate limiting, mostly. There are 250 countries, we test 5 servers from each country, each test is ran twice, and only the best result is kept, 250*5*2=2500 tests, add rate limiting to that, and you end up with roughly 24 hours.
+A: Speedtest.net api rate limiting, mostly. There are 250 countries, we test 5 servers from each country, each test is ran twice, and only the best result is kept, 250\*5\*2=2500 tests, add rate limiting to that, and you end up with roughly 24 hours.
