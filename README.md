@@ -1,7 +1,8 @@
 # speedmap
-speedtest world map: Create a world map showing your connection speed to every country in the world!
+SpeedMap: Visualize Your Internet Speed Across the Globe! 🚀 Explore and compare your connection speed to every country with this interactive world map! 
 
-Example speedmap at https://rawgit.loltek.net/https://raw.githubusercontent.com/divinity76/speedmap/main/sample_speedmap.html
+
+Sample map at https://rawgit.loltek.net/https://raw.githubusercontent.com/divinity76/speedmap/main/sample_speedmap.html
 
 [<img src="https://i.imgur.com/BYu0IRs.png">](https://rawgit.loltek.net/https://raw.githubusercontent.com/divinity76/speedmap/main/sample_speedmap.html)
 
