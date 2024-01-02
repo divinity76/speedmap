@@ -1,0 +1,4 @@
+*.php text=lf
+*.json text=lf
+*.html text=lf
+*.md text=lf
