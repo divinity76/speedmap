@@ -10,7 +10,7 @@ Sample map at https://rawgit.loltek.net/https://raw.githubusercontent.com/divini
 
 - php-cli >= 8 (7.4 might work, haven't tested. patches welcome!)
 - composer
-- Chrome or Cromium
+- Chrome or Chromium
 
 # usage
 ```bash
