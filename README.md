@@ -31,6 +31,6 @@ Q: How much time does it take?
 A: Roughly 24 hours. Speedmap.html is updated in real-time though, so you can check out the parital map while it is building. If you're running it on a remote server, I recommend running it in [screenie](https://manpages.ubuntu.com/manpages/trusty/man1/screenie.1.html) so generation does not stop if your SSH connection drops.
 
 
-Q: Why so slow?
+Q: Why 24 hours?
 
 A: Speedtest.net api rate limiting, mostly. There are 250 countries, we test 5 servers from each country, each test is ran twice, and only the best result is kept, 250\*5\*2=2500 tests, add rate limiting to that, and you end up with roughly 24 hours. (*It's not really 2500, Greenland only has 1 server, [a bug](https://github.com/divinity76/speedmap/issues/1) is making it skip South Korea, and i don't think North Korea has any speed test servers at all)
